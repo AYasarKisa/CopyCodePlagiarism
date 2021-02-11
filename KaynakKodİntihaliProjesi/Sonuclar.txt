@@ -1,0 +1,126 @@
+--------------------------------------------------------------------------
+dosya1:JavaPokemon1.java
+dosya2:JavaPokemon2.java
+kaynak kodlarin benzerlik orani: %60
+Programlama dillerinin benzerlik orani : %100
+Kopya cekme orani :%61 
+--------------------------------------------------------------------------
+dosya1:JavaPokemon1.java
+dosya2:text1.c
+kaynak kodlarin benzerlik orani: %6
+Programlama dillerinin benzerlik orani : %25
+Kopya cekme orani :%25 
+--------------------------------------------------------------------------
+dosya1:JavaPokemon1.java
+dosya2:text2.c
+kaynak kodlarin benzerlik orani: %5
+Programlama dillerinin benzerlik orani : %25
+Kopya cekme orani :%25 
+--------------------------------------------------------------------------
+dosya1:JavaPokemon1.java
+dosya2:text3.c
+kaynak kodlarin benzerlik orani: %5
+Programlama dillerinin benzerlik orani : %25
+Kopya cekme orani :%25 
+--------------------------------------------------------------------------
+dosya1:JavaPokemon1.java
+dosya2:text4.c
+kaynak kodlarin benzerlik orani: %6
+Programlama dillerinin benzerlik orani : %25
+Kopya cekme orani :%25 
+--------------------------------------------------------------------------
+dosya1:JavaPokemon1.java
+dosya2:text5.c
+kaynak kodlarin benzerlik orani: %4
+Programlama dillerinin benzerlik orani : %25
+Kopya cekme orani :%25 
+--------------------------------------------------------------------------
+dosya1:JavaPokemon2.java
+dosya2:text1.c
+kaynak kodlarin benzerlik orani: %4
+Programlama dillerinin benzerlik orani : %25
+Kopya cekme orani :%25 
+--------------------------------------------------------------------------
+dosya1:JavaPokemon2.java
+dosya2:text2.c
+kaynak kodlarin benzerlik orani: %3
+Programlama dillerinin benzerlik orani : %25
+Kopya cekme orani :%25 
+--------------------------------------------------------------------------
+dosya1:JavaPokemon2.java
+dosya2:text3.c
+kaynak kodlarin benzerlik orani: %4
+Programlama dillerinin benzerlik orani : %25
+Kopya cekme orani :%25 
+--------------------------------------------------------------------------
+dosya1:JavaPokemon2.java
+dosya2:text4.c
+kaynak kodlarin benzerlik orani: %4
+Programlama dillerinin benzerlik orani : %25
+Kopya cekme orani :%25 
+--------------------------------------------------------------------------
+dosya1:JavaPokemon2.java
+dosya2:text5.c
+kaynak kodlarin benzerlik orani: %3
+Programlama dillerinin benzerlik orani : %25
+Kopya cekme orani :%25 
+--------------------------------------------------------------------------
+dosya1:text1.c
+dosya2:text2.c
+kaynak kodlarin benzerlik orani: %80
+Programlama dillerinin benzerlik orani : %100
+Kopya cekme orani :%80 
+--------------------------------------------------------------------------
+dosya1:text1.c
+dosya2:text3.c
+kaynak kodlarin benzerlik orani: %68
+Programlama dillerinin benzerlik orani : %100
+Kopya cekme orani :%69 
+--------------------------------------------------------------------------
+dosya1:text1.c
+dosya2:text4.c
+kaynak kodlarin benzerlik orani: %97
+Programlama dillerinin benzerlik orani : %100
+Kopya cekme orani :%82 
+--------------------------------------------------------------------------
+dosya1:text1.c
+dosya2:text5.c
+kaynak kodlarin benzerlik orani: %76
+Programlama dillerinin benzerlik orani : %100
+Kopya cekme orani :%79 
+--------------------------------------------------------------------------
+dosya1:text2.c
+dosya2:text3.c
+kaynak kodlarin benzerlik orani: %84
+Programlama dillerinin benzerlik orani : %100
+Kopya cekme orani :%80 
+--------------------------------------------------------------------------
+dosya1:text2.c
+dosya2:text4.c
+kaynak kodlarin benzerlik orani: %78
+Programlama dillerinin benzerlik orani : %100
+Kopya cekme orani :%79 
+--------------------------------------------------------------------------
+dosya1:text2.c
+dosya2:text5.c
+kaynak kodlarin benzerlik orani: %78
+Programlama dillerinin benzerlik orani : %100
+Kopya cekme orani :%79 
+--------------------------------------------------------------------------
+dosya1:text3.c
+dosya2:text4.c
+kaynak kodlarin benzerlik orani: %66
+Programlama dillerinin benzerlik orani : %100
+Kopya cekme orani :%67 
+--------------------------------------------------------------------------
+dosya1:text3.c
+dosya2:text5.c
+kaynak kodlarin benzerlik orani: %65
+Programlama dillerinin benzerlik orani : %100
+Kopya cekme orani :%66 
+--------------------------------------------------------------------------
+dosya1:text4.c
+dosya2:text5.c
+kaynak kodlarin benzerlik orani: %74
+Programlama dillerinin benzerlik orani : %100
+Kopya cekme orani :%77 
